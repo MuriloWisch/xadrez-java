@@ -1,4 +1,4 @@
-import boardgame.Board;
+
 import xadrez.ChessMatch;
 
 public class Programa {
