@@ -33,7 +33,7 @@ public class Programa {
                 System.out.println(e.getMessage());
                 scanner.nextLine();
         }
-
+            System.out.println("Teste");
     }
 }
 }
