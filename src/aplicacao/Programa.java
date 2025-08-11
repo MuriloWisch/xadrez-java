@@ -21,7 +21,7 @@ public class Programa {
                 ChessPosition source = UI.readChessPosition(scanner);
 
                 System.out.println();
-                System.out.println("Target: ");
+                System.out.print("Target: ");
                 ChessPosition target = UI.readChessPosition(scanner);
 
                 ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
